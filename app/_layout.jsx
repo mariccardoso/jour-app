@@ -16,7 +16,7 @@ export default function RootLayout() {
                     </Pressable>
                 ),
                 headerLeft: () => (
-                    <Pressable onPress={() => alert("Olá, aqui está a sua mensagem!")}>
+                    <Pressable onPress={() => alert("Ainda não sabemos fazer navegação hamburguer 😭")}>
                         <Image
                             source={{
                                 uri: "https://www.svgrepo.com/show/506792/burger-menu-left.svg",

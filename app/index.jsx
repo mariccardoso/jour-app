@@ -27,9 +27,9 @@ export default function Home() {
             </View>
             <View style={styles.navBar}>
                 <Link href={"./"} style={styles.navBarLinkPressed}>Home</Link>
-                <Link href={"./"} style={styles.navBarLink}>Sobre Nós</Link>
-                <Link href={"./"} style={styles.navBarLink}>Login</Link>
-                <Link href={"./"} style={styles.navBarLink}>Termos de Uso</Link>
+                <Link href={"./sobre"} style={styles.navBarLink}>Sobre Nós</Link>
+                <Link href={"./login"} style={styles.navBarLink}>Login</Link>
+                <Link href={"./termos"} style={styles.navBarLink}>Termos de Uso</Link>
             </View>
             <View style={styles.sectionCards}>
                 <View style={styles.cardsAneis}>
@@ -172,7 +172,4 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontSize: 13
     }
-
-
-
 });
