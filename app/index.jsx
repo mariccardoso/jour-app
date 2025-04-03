@@ -43,30 +43,30 @@ export default function Home() {
                     </View>
                     <View style={styles.card} >
                         <Image
-                            source={{ uri: "https://versalejoias.com/cdn/shop/files/Designsemnome_22.jpg?v=1741182628&width=800" }}
+                            source={{ uri: "https://pandorajoias.vtexassets.com/arquivos/ids/370594-1200-1200?v=638791252169430000&width=1200&height=1200&aspect=true" }}
                             style={styles.cardImage}
                         />
-                        <Text style={styles.cardTitle}>Anel Grandiente Curve</Text>
-                        <Text style={styles.cardPrice}>$1220</Text>
+                        <Text style={styles.cardTitle}>Anel Heart Red</Text>
+                        <Text style={styles.cardPrice}>$1429</Text>
                     </View>
                     
                 </View>
                 <View style={styles.cardsAneis}>
                     <View style={styles.card} >
                         <Image
-                            source={{ uri: "https://versalejoias.com/cdn/shop/files/Designsemnome_22.jpg?v=1741182628&width=800" }}
+                            source={{ uri: "https://pandorajoias.vtexassets.com/arquivos/ids/367474-1200-1200?v=638791229468600000&width=1200&height=1200&aspect=true" }}
                             style={styles.cardImage}
                         />
-                        <Text style={styles.cardTitle}>Anel Grandiente Curve</Text>
-                        <Text style={styles.cardPrice}>$1220</Text>
+                        <Text style={styles.cardTitle}>Anel sun</Text>
+                        <Text style={styles.cardPrice}>$2189</Text>
                     </View>
                     <View style={styles.card} >
                         <Image
-                            source={{ uri: "https://versalejoias.com/cdn/shop/files/Designsemnome_22.jpg?v=1741182628&width=800" }}
+                            source={{ uri: "https://pandorajoias.vtexassets.com/arquivos/ids/180090-1200-1200?v=638729918317530000&width=1200&height=1200&aspect=true" }}
                             style={styles.cardImage}
                         />
-                        <Text style={styles.cardTitle}>Anel Grandiente Curve</Text>
-                        <Text style={styles.cardPrice}>$1220</Text>
+                        <Text style={styles.cardTitle}>Anel you & me</Text>
+                        <Text style={styles.cardPrice}>$3800</Text>
                     </View>
                     
                 </View>
